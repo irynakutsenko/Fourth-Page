@@ -1,0 +1,14 @@
+main {
+    background-color: indianred;
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+    text-align: center;
+    width: 25%;
+}
+
+div h1 {
+    text-transform: uppercase;
+}
